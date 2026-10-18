@@ -1,0 +1,8 @@
+{
+  "name": "base-nft-playground",
+  "version": "1.0.0",
+  "description": "NFT experiments on Base",
+  "scripts": {
+    "compile": "echo 'Add hardhat or foundry'"
+  }
+}
